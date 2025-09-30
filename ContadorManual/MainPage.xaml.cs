@@ -25,6 +25,7 @@
             ConteoLabel.Text = _conteo.ToString();
 
         }
+        //Cambiamos la parte grafica agregandole un Grid....
 
     }
 }
