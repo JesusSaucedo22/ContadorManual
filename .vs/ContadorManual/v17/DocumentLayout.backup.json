@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jesus\\OneDrive\\Desktop\\SEMESTRE 5\\Codigos-Chuc\\ContadorManual\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE14F022-8A1B-45BF-87FE-CEF3B979AB7B}|ContadorManual\\ContadorManual.csproj|c:\\users\\jesus\\onedrive\\desktop\\semestre 5\\codigos-chuc\\contadormanual\\contadormanual\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE14F022-8A1B-45BF-87FE-CEF3B979AB7B}|ContadorManual\\ContadorManual.csproj|solutionrelative:contadormanual\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE14F022-8A1B-45BF-87FE-CEF3B979AB7B}|ContadorManual\\ContadorManual.csproj|c:\\users\\jesus\\onedrive\\desktop\\semestre 5\\codigos-chuc\\contadormanual\\contadormanual\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FE14F022-8A1B-45BF-87FE-CEF3B979AB7B}|ContadorManual\\ContadorManual.csproj|solutionrelative:contadormanual\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE14F022-8A1B-45BF-87FE-CEF3B979AB7B}|ContadorManual\\ContadorManual.csproj|c:\\users\\jesus\\onedrive\\desktop\\semestre 5\\codigos-chuc\\contadormanual\\contadormanual\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE14F022-8A1B-45BF-87FE-CEF3B979AB7B}|ContadorManual\\ContadorManual.csproj|solutionrelative:contadormanual\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Desktop\\SEMESTRE 5\\Codigos-Chuc\\ContadorManual\\ContadorManual\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "ContadorManual\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\jesus\\OneDrive\\Desktop\\SEMESTRE 5\\Codigos-Chuc\\ContadorManual\\ContadorManual\\MainPage.xaml.cs",
               "RelativeToolTip": "ContadorManual\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T02:50:25.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Desktop\\SEMESTRE 5\\Codigos-Chuc\\ContadorManual\\ContadorManual\\MainPage.xaml",
               "RelativeDocumentMoniker": "ContadorManual\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Desktop\\SEMESTRE 5\\Codigos-Chuc\\ContadorManual\\ContadorManual\\MainPage.xaml",
-              "RelativeToolTip": "ContadorManual\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Desktop\\SEMESTRE 5\\Codigos-Chuc\\ContadorManual\\ContadorManual\\MainPage.xaml*",
+              "RelativeToolTip": "ContadorManual\\MainPage.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-24T02:50:23.597Z"
+              "WhenOpened": "2025-09-24T02:50:23.597Z",
+              "EditorCaption": ""
             }
           ]
         }

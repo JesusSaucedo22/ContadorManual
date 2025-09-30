@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContadorManual")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+26dc20c56ab4bf66f1757029b1be90d3a30f28e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContadorManual")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContadorManual")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
