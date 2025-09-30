@@ -2,47 +2,65 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ContadorManual.MainPage"
-             Title=" Contador Manual"
+             Title="Contador Manual"
              Background="Gray">
 
-    <VerticalStackLayout
-        Margin="0, 24">
+    <Grid Margin="16">
 
-        <Label
-            Text="Conteo: "
-            FontSize="Medium"/>
+        <Grid.RowDefinitions>
+            <RowDefinition 
+                Height="Auto"/>
+            <RowDefinition 
+                Height="Auto"/>
+        </Grid.RowDefinitions>
 
-        <Border
-            Stroke="Wheat"
-            Margin="40,25,40,35">
-
+        <VerticalStackLayout
+            Grid.Row="0"
+            Grid.Column="0">
 
             <Label
-                Text=" 0"
-                HorizontalOptions="Center"
-                Margin="0,24"
-                FontSize="Large"
-                FontAttributes="Bold"
-                x:Name="ConteoLabel"/>
-        </Border>
+                Text="Conteo: "
+                FontSize="Medium" />
+
+            <Border
+                Stroke="Wheat"
+                Margin="40,25,40,35">
+
+                <Label
+                    Text="0"
+                    HorizontalOptions="Center"
+                    Margin="0,24"
+                    FontSize="Large"
+                    FontAttributes="Bold"
+                    x:Name="ConteoLabel"/>
+            </Border>
+
+        </VerticalStackLayout>
 
         <HorizontalStackLayout
+            Grid.Row="1"
+            Grid.Column="0"
             Spacing="32"
             HorizontalOptions="Center">
 
             <Button
+                Grid.Row="1"
+                Grid.Column="0"
                 Text="Contar"
                 FontSize="Medium"
                 WidthRequest="130"
                 Clicked="Button_Clicke"/>
+
             <Button
+                Grid.Row="1"
+                Grid.Column="0"
                 Text="Reiniciar"
                 FontSize="Medium"
                 WidthRequest="130"
                 Clicked="Button_Clicke_1"/>
+
         </HorizontalStackLayout>
 
-    </VerticalStackLayout>
-
+    </Grid>
 
 </ContentPage>
